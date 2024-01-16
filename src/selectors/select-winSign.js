@@ -1,0 +1,1 @@
+export const selectWinSign = (state) => state.winSign;

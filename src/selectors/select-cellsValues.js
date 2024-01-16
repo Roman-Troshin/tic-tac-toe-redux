@@ -1,0 +1,1 @@
+export const selectCellsValues = (state) => state.cellsValues;

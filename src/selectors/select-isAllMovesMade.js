@@ -1,0 +1,1 @@
+export const selectIsAllMovesMade = (state) => state.isAllMovesMade;
